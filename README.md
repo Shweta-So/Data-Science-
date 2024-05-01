@@ -23,6 +23,10 @@ This repository contains a collection of notebooks and projects aimed at explori
 5. *Scikit-learn Notebook*:
    - Scikit-learn is a widely-used machine learning library in Python, and this notebook provides an introduction to its key functionalities.
    - It includes examples of various machine learning algorithms, such as regression, classification, and clustering, using Scikit-learn.
+  
+6. *Scatter Notebook*:
+   - Scatter Notebook involes the machine learning topics such as supervised training.
+   - Inclues the topics KMeans, PCA, model, pickel, joblib.
 
 ### Projects:
 
